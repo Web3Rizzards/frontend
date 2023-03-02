@@ -19,8 +19,6 @@ const Navigation = () => {
       <NavigationContainer>
         <NavigationSection />
         <NavigationSection>
-          <NavigationLogo>
-          </NavigationLogo>
         </NavigationSection>
         <NavigationSection>
           <Web3Button />
